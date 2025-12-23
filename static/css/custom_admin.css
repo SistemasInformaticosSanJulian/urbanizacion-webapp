@@ -1,0 +1,10 @@
+/* Cambiar el color de fondo */
+body.admin, #header {
+    background-color: #1e1e2f; /* Cambia a tu color preferido */
+}
+
+/* Cambiar el color de los enlaces */
+a {
+    color: #ff6347 !important; /* Cambia a tu color preferido */
+}
+
